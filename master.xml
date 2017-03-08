@@ -152,6 +152,10 @@ Your sources have been sync'd successfully.
            name="appc/acbuild"
            groups="minilayout" />
 
+  <project path="src/third_party/docker-skim"
+           name="coreos/docker-skim"
+           groups="minilayout" />
+
   <project path="src/third_party/ignition"
            name="coreos/ignition"
            groups="minilayout" />
